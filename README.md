@@ -29,7 +29,7 @@ Links to the Different Colab notebooks:
   
 **4. 🖼️ Image Data Analysis**
 - Delve into pixel distributions, color histograms, and more.
-- Understand image datasets like CIFAR-10 in-depth.
+- Understand image datasets like Cat Faces in-depth.
   
 **5. 🎵 Audio Data Analysis**
 - Visualize waveforms, spectrograms, and explore audio properties.
