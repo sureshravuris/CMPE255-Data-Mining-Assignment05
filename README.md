@@ -41,3 +41,14 @@ Links to the Different Colab notebooks:
 **7. 🌐 Graph Data Analysis**
 - Explore graph datasets like Cora.
 - Visualize node distributions, communities, and graph structures.
+
+
+## **🛠️ Tools & Libraries Used:**
+- Python
+- Jupyter
+- Pandas
+- Matplotlib
+- NetworkX
+- Librosa
+- OpenCV
+- And more...
