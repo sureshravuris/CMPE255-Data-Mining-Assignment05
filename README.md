@@ -24,6 +24,7 @@ Links to the Different Colab notebooks:
 **2. 🌊 Time Series Analysis**
 - Explore the world of data points indexed in time order.
 - Visualize trends, seasonality, and anomalies.
+- Medium Link - https://medium.com/@sureshravuri07/unveiling-patterns-in-time-time-series-analysis-of-superstore-sales-57c952db30c3
   
 **3. 🌍 Spatio-Temporal Analysis**
 - Analyze data that is both spatial and temporal, understanding patterns that evolve over space and time.
