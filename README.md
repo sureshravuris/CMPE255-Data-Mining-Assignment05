@@ -28,6 +28,7 @@ Links to the Different Colab notebooks:
   
 **3. 🌍 Spatio-Temporal Analysis**
 - Analyze data that is both spatial and temporal, understanding patterns that evolve over space and time.
+- Medium Link - https://medium.com/@sureshravuri07/mapping-the-narrative-spatio-temporal-analysis-of-fatalities-in-the-israel-palestine-conflict-a38ae46b33e9
   
 **4. 🖼️ Image Data Analysis**
 - Delve into pixel distributions, color histograms, and more.
