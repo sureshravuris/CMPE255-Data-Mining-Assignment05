@@ -33,6 +33,7 @@ Links to the Different Colab notebooks:
 **4. 🖼️ Image Data Analysis**
 - Delve into pixel distributions, color histograms, and more.
 - Understand image datasets like Cat Faces in-depth.
+- Medium Link - https://medium.com/@sureshravuri07/unveiling-feline-features-image-processing-for-cat-face-detection-97aaf0d5136d
   
 **5. 🎵 Audio Data Analysis**
 - Visualize waveforms, spectrograms, and explore audio properties.
