@@ -19,6 +19,7 @@ Links to the Different Colab notebooks:
 **1. 📑 Tabular Data Analysis**
 - Dive into structured datasets, understanding data distributions, missing values, and correlations.
 - Visualizations include histograms, scatter plots, and more.
+- Medium Link - https://medium.com/@sureshravuri07/streamlining-nyc-taxi-data-a-preprocessing-journey-85c702a40002
   
 **2. 🌊 Time Series Analysis**
 - Explore the world of data points indexed in time order.
