@@ -47,6 +47,7 @@ Links to the Different Colab notebooks:
 **7. 🌐 Graph Data Analysis**
 - Explore graph datasets like Cora.
 - Visualize node distributions, communities, and graph structures.
+- Medium Link - https://medium.com/@sureshravuri07/navigating-connections-graph-model-eda-unveiled-f325f9052c20
 
 
 ## **🛠️ Tools & Libraries Used:**
