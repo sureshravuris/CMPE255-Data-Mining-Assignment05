@@ -37,6 +37,7 @@ Links to the Different Colab notebooks:
   
 **5. 🎵 Audio Data Analysis**
 - Visualize waveforms, spectrograms, and explore audio properties.
+- Medium Link - https://medium.com/@sureshravuri07/decoding-soundscapes-an-introduction-to-audio-processing-with-python-2803567a01c0
   
 **6. 🎥 Video Data Analysis**
 - Dive deep into video datasets like UCF101 and HMDB51.
