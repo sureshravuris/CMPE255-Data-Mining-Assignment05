@@ -42,6 +42,7 @@ Links to the Different Colab notebooks:
 **6. 🎥 Video Data Analysis**
 - Dive deep into video datasets like UCF101 and HMDB51.
 - Visualize motion patterns, frame distributions, and more.
+- Medium Link - https://medium.com/@sureshravuri07/the-art-of-motion-exploring-video-processing-with-python-0f7c3702de35
   
 **7. 🌐 Graph Data Analysis**
 - Explore graph datasets like Cora.
